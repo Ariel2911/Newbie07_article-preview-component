@@ -1,12 +1,11 @@
-# Frontend Mentor - Componente de vista previa del artículo
+# Frontend Mentor - Vistas previas del desafío
 
-![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
+!(./archivos-fronter-mentor/design/)
 
 ## Bienbenido! 👋
 
-Gracias por comprobar este desafío de codificación de front-end.
+Gracias a Frontend Mentor ((https://www.frontendmentor.io) por brindar este desafío de codificación de front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) proporciona desafíos que ayudan a mejorar las habilidades de codificación mediante la creación de proyectos realistas.
 
 **Para hacer este desafío, necesita un conocimiento básico de HTML, CSS y un poquito de JavaScript.**
 
@@ -26,7 +25,7 @@ Sus usuarios deberían poder:
 
 ## Donde encontrar todo
 
-La tarea es construir el proyecto con los diseños dentro de la carpeta `/ design`. Encontrará una versión móvil y de escritorio del diseño. 
+La tarea es construir el proyecto con los diseños provistos por Frontend Mentor. Encontrará una versión móvil y de escritorio del diseño. 
 
 Los diseños están en formato estático JPG. El uso de JPG significará que deberá utilizar su mejor criterio para estilos como `font-size`, `padding` y `margin`. 
 
