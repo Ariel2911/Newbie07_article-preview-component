@@ -27,9 +27,10 @@
 .share{
     left: auto;
     right: -68px;
-    bottom: 90px;
+    bottom: 80px;
     width: 248px;
     height: 54px;
+    padding-left: 20px;
     border-radius: 12px;  
     opacity: 0; 
     z-index: -1;     
@@ -49,4 +50,8 @@
 .share--show{
     opacity: 1;    
     z-index: 0;
+}
+
+.share__social-media{
+    margin-right: 4px;
 }
